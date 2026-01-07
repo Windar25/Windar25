@@ -37,4 +37,4 @@ I combine technical skills in **Python & SQL** with strategic process optimizati
 
 ### 📫 Connect with me
 * **Email:** darwingerard0103@gmail.com
-* **LinkedIn:** [Pega aquí tu Link de LinkedIn si lo tienes]
+* **LinkedIn:** https://www.linkedin.com/in/darwin-gerard-caceres-endo-474a52296/
